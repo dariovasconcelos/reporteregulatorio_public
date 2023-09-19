@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrewy_gatsby=self.webpackChunkrewy_gatsby||[]).push([[582],{7654:function(e,t,a){a.r(t);var l=a(7294),c=a(7154),r=a(9992),n=a(3982),s=a(2875),d=a(2182);t.default=()=>l.createElement(c.Z,null,l.createElement(r.Z,null),l.createElement(n.Z,{pageTitle:"Velocidad de respuesta",homePageText:"Home",homePageUrl:"/",activePageText:"Velocidad de respuesta"}),l.createElement(d.Z,{desde:"velocidad"}),l.createElement(s.Z,null))}}]);
+//# sourceMappingURL=component---src-pages-velocidad-js-c41908ec0ec1df1baea6.js.map

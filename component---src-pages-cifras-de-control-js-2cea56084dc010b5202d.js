@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrewy_gatsby=self.webpackChunkrewy_gatsby||[]).push([[8355],{6820:function(e,t,a){a.r(t);var l=a(7294),r=a(7154),n=a(9992),c=a(3982),s=a(2875),o=a(2182);t.default=()=>l.createElement(r.Z,null,l.createElement(n.Z,null),l.createElement(c.Z,{pageTitle:"Cifras de control",homePageText:"Home",homePageUrl:"/",activePageText:"Cifras de control"}),l.createElement(o.Z,{desde:"cifras-de-control"}),l.createElement(s.Z,null))}}]);
+//# sourceMappingURL=component---src-pages-cifras-de-control-js-2cea56084dc010b5202d.js.map

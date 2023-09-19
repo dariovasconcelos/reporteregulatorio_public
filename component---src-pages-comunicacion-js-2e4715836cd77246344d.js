@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrewy_gatsby=self.webpackChunkrewy_gatsby||[]).push([[4819],{5527:function(e,t,a){a.r(t);var n=a(7294),c=a(7154),l=a(9992),u=a(3982),m=a(2875),r=a(2182);t.default=()=>n.createElement(c.Z,null,n.createElement(l.Z,null),n.createElement(u.Z,{pageTitle:"Comunicación",homePageText:"Home",homePageUrl:"/",activePageText:"Comunicación"}),n.createElement(r.Z,{desde:"comunicacion"}),n.createElement(m.Z,null))}}]);
+//# sourceMappingURL=component---src-pages-comunicacion-js-2e4715836cd77246344d.js.map

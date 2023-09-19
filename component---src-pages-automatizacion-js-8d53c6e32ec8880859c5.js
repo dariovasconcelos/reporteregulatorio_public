@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrewy_gatsby=self.webpackChunkrewy_gatsby||[]).push([[1076],{6879:function(e,t,a){a.r(t);var l=a(7294),n=a(7154),c=a(9992),u=a(3982),m=a(2875),r=a(2182);t.default=()=>l.createElement(n.Z,null,l.createElement(c.Z,null),l.createElement(u.Z,{pageTitle:"Automatización",homePageText:"Home",homePageUrl:"/",activePageText:"Automatización"}),l.createElement(r.Z,{desde:"automatizacion"}),l.createElement(m.Z,null))}}]);
+//# sourceMappingURL=component---src-pages-automatizacion-js-8d53c6e32ec8880859c5.js.map

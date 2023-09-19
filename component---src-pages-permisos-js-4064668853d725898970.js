@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkrewy_gatsby=self.webpackChunkrewy_gatsby||[]).push([[9894],{5270:function(e,t,a){a.r(t);var l=a(7294),r=a(7154),s=a(9992),n=a(3982),m=a(2875),c=a(2182);t.default=()=>l.createElement(r.Z,null,l.createElement(s.Z,null),l.createElement(n.Z,{pageTitle:"Permisos",homePageText:"Home",homePageUrl:"/",activePageText:"Permisos"}),l.createElement(c.Z,{desde:"permisos"}),l.createElement(m.Z,null))}}]);
+//# sourceMappingURL=component---src-pages-permisos-js-4064668853d725898970.js.map
