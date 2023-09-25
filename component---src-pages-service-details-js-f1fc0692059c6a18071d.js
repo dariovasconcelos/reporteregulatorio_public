@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreporteregulatorio=self.webpackChunkreporteregulatorio||[]).push([[9658],{9970:function(e,t,a){a.r(t);var l=a(7294),r=a(7154),n=a(9992),u=a(3982),c=a(2875),o=a(2182);t.default=()=>l.createElement(r.Z,null,l.createElement(n.Z,null),l.createElement(u.Z,{pageTitle:"Automatización",homePageText:"Home",homePageUrl:"/",activePageText:"Automatización"}),l.createElement(o.Z,null),l.createElement(c.Z,null))}}]);
+//# sourceMappingURL=component---src-pages-service-details-js-f1fc0692059c6a18071d.js.map

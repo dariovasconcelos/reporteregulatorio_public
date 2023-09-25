@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreporteregulatorio=self.webpackChunkreporteregulatorio||[]).push([[9451],{6710:function(e,t,l){l.r(t);var a=l(7294),r=l(7154),o=l(9992),i=l(3982),n=l(2875),u=l(2182);t.default=()=>a.createElement(r.Z,null,a.createElement(o.Z,null),a.createElement(i.Z,{pageTitle:"Movilidad",homePageText:"Home",homePageUrl:"/",activePageText:"Movilidad"}),a.createElement(u.Z,{desde:"movilidad"}),a.createElement(n.Z,null))}}]);
+//# sourceMappingURL=component---src-pages-movilidad-js-04ddb0c2a729abaef571.js.map
